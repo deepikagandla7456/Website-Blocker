@@ -58,5 +58,5 @@ Cons:
 -Requires manual updating to block new websites.
 -Only works on the system where it’s implemented.
 
-Conclusion
+Conclusion:
 The Website Blocker is a useful Python tool for users looking to minimize online distractions. While it has limitations, it provides a basic framework for managing web access effectively.
