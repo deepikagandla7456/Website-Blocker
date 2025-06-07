@@ -3,7 +3,7 @@ from datetime import datetime as dt
 
 host_path = "C:\\Windows\\System32\\drivers\\etc\\hosts"  # Adjust path for Mac/Linux if needed
 redirect = "127.0.0.1"
-website_list = ["facebook.com", "www.facebook.com"]
+website_list = ["facebook.com", "www.facebook.com", "instagram.com", "www.instagram.com"]
 
 while True:
     # Set blocking hours (e.g., 7 AM to 10 AM)
