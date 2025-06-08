@@ -4,7 +4,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/Website-Blocker)]() 
 [![GitHub last-commit](https://img.shields.io/github/last-commit/deepikagandla7456/Website-Blocker)]()  
 
-<img title="Website Blocker Logo" align='right' src="https://github.com/user-attachments/assets/ad43d6e0-9e26-4df6-baad-83682fb805e0" alt="Website Blocker Logo" width="120"/>
+<img title="Website Blocker Logo" align='right' src="https://github.com/user-attachments/assets/ad43d6e0-9e26-4df6-baad-83682fb805e0" alt="Website Blocker Logo" width="210"/>
 
 Boost your productivity with the **Website Blocker**!  
 This simple Python tool helps you block distracting websites like Facebook, Instagram etc., during your focus hours. Whether you're studying, working, or just trying to stay off social media, this tool ensures you stay on track.
