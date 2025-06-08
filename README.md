@@ -4,7 +4,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/Website-Blocker)]() 
 [![GitHub last-commit](https://img.shields.io/github/last-commit/deepikagandla7456/Website-Blocker)]()  
 
-<img title="Website Blocker Logo" align='right' src="" alt="Website Blocker Logo" width="120"/>
+<img title="Website Blocker Logo" align='right' src="![Image](https://github.com/user-attachments/assets/ad43d6e0-9e26-4df6-baad-83682fb805e0)" alt="Website Blocker Logo" width="120"/>
 
 Boost your productivity with the **Website Blocker**!  
 This simple Python tool helps you block distracting websites like Facebook and Instagram during your focus hours. Whether you're studying, working, or just trying to stay off social media, this tool ensures you stay on track.
@@ -81,6 +81,8 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
 
   **Before Blocking the Site**
   
+![Image](https://github.com/user-attachments/assets/56b75d4b-3398-4cc7-951e-3ccff1cd5ec0
+  
 Websites like Facebook and Instagram open normally before the script starts running.
 
  **During Blocked Hours**
@@ -88,6 +90,8 @@ Websites like Facebook and Instagram open normally before the script starts runn
 When the script runs between 7 AM and 10 AM, the listed websites are blocked and show an error message when accessed.
 
  **After Blocked Hours**
+ 
+![Image](https://github.com/user-attachments/assets/56b75d4b-3398-4cc7-951e-3ccff1cd5ec0
  
 Once the blocking time ends, the websites are unblocked and accessible again as usual.
 
