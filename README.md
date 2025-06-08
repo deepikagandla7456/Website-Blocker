@@ -82,7 +82,7 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
 **Before Blocking the Site**
 ![Image](https://github.com/user-attachments/assets/56b75d4b-3398-4cc7-951e-3ccff1cd5ec0)
   
-***Websites like Facebook and Instagram open normally before the script starts running.***
+***Websites like Facebook, Instagram etc., open normally before the script starts running.***
 
 **During Blocked Hours**
  
