@@ -20,7 +20,7 @@ Make the most of your time. Stay productive with Website Blocker.
 
 ---
 
-## 📌 About
+##  About
 
 Website Blocker is a Python script that helps users avoid distractions by blocking specific websites (e.g., Facebook, Instagram) during a selected time window (e.g., 7 AM to 10 AM).  
 It works by modifying the system’s `hosts` file to redirect those websites to `127.0.0.1`, making them inaccessible during that period.
@@ -78,5 +78,22 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
 
 - You can change time and sites by editing the values in app.py.
 ## Screenshots 
+
+  **Before Blocking the Site**
+  
+Websites like Facebook and Instagram open normally before the script starts running.
+
+ **During Blocked Hours**
+ 
+When the script runs between 7 AM and 10 AM, the listed websites are blocked and show an error message when accessed.
+
+ **After Blocked Hours**
+ 
+Once the blocking time ends, the websites are unblocked and accessible again as usual.
+
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 
