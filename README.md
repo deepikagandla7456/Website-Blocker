@@ -85,6 +85,7 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
 ***Websites like Facebook, Instagram etc., open normally before the script starts running.***
 
 **During Blocked Hours**
+![Image](https://github.com/user-attachments/assets/b5c8f8b5-7eeb-4e26-b110-10008f8d53da)
  
 ***When the script runs between 7 AM and 10 AM, the listed websites are blocked and show an error message when accessed.***
 
