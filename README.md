@@ -7,7 +7,7 @@
 <img title="Website Blocker Logo" align='right' src="https://github.com/user-attachments/assets/ad43d6e0-9e26-4df6-baad-83682fb805e0" alt="Website Blocker Logo" width="210"/>
 
 Boost your productivity with the **Website Blocker**!  
-This simple Python tool helps you block distracting websites like Facebook, Instagram etc., during your focus hours. Whether you're studying, working, or just trying to stay off social media, this tool ensures you stay on track.
+This simple Python tool helps you block distracting websites like Facebook, Instagram etc., during your focus hours. Whether you're studying, working, or just trying to stay off from social media, this tool ensures you stay on track.
 
 ---
 
@@ -16,13 +16,11 @@ Make the most of your time. Stay productive with Website Blocker.
 </p>
 <p align="center"><i>Block distractions and Unlock focus.</i></p>
 
-
-
 ---
 
 ##  About
 
-Website Blocker is a Python script that helps users avoid distractions by blocking specific websites (e.g., Facebook, Instagram) during a selected time (e.g., 7 AM to 10 AM).  
+Website Blocker is a Python script that helps users to avoid distractions by blocking specific websites (e.g., Facebook, Instagram) during a selected time (e.g., 7 AM to 10 AM).  
 It works by modifying the system’s `hosts` file to redirect those websites to `127.0.0.1`, making them inaccessible during that period.
 
 ---
@@ -30,13 +28,12 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
 ##  Limitations & Future Work
 
 -  Requires admin/root privileges to edit system files.
--  Only works on local machines (Windows by default).
+-  Only works on local machines.
 -  Time range is fixed in code (can be modified manually).
 
 ### Future Work
 
 - Add GUI for selecting websites and blocking hours.
-- Make cross-platform support for Mac/Linux easier.
 - Notification before blocking/unblocking.
 - Option to log blocked attempts.
 
@@ -53,9 +50,7 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
 
 ##  Requirements
 
-- Python 3.x
-- OS: Windows (you can change path for Linux/Mac)
-
+- Python 3.7 or higher version 
 ---
 
 ##  Setup and Installation
@@ -72,7 +67,7 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
  ## Usage
 - This script continuously checks the system time.
 
-- If current time is between 7 AM and 10 AM, it blocks the sites listed in ```website_list```
+- If current time is in between 7 AM and 10 AM, it blocks the sites listed in ```website_list```
 
 - Outside that time range, it unblocks those websites.
 
@@ -94,9 +89,6 @@ It works by modifying the system’s `hosts` file to redirect those websites to 
  
 ***Once the blocking time ends, the websites are unblocked and accessible again as usual.***
 
-   
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-
