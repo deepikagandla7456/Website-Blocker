@@ -16,6 +16,7 @@ while True:
                 else:
                     file.write(redirect + " " + website + "\n")
         print("All listed websites are blocked!")
+        
     else:
         with open(host_path, "r+") as file:
             content = file.readlines()
@@ -25,4 +26,5 @@ while True:
                     file.write(line)
             file.truncate()
         print("Websites are unblocked! Have fun!")
+        
     time.sleep(5)
