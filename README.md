@@ -9,7 +9,6 @@
 Boost your productivity with the **Website Blocker**!  
 This simple Python tool helps you block distracting websites like Facebook, Instagram etc., during your focus hours. Whether you're studying, working, or just trying to stay off from social media, this tool ensures you stay on track.
 
----
 
 <p align="center">
 Make the most of your time. Stay productive with Website Blocker.
